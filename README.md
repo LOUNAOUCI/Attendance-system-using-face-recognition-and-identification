@@ -1,1 +1,1 @@
-# Attendance-system-by-face-recognition
+# Attendance-system-using-face-recognition-and-identification
