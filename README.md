@@ -1,7 +1,7 @@
 # Attendance-system-using-face-recognition-and-identification
 
 # Diagram
-![Diagram](C:\Users\USER\Github\Attendance-system-using-face-recognition-and-identification\Image\Diagram.PNG)
+![Diagram](Image/Diagram.PNG)
 
 # Welcome Window
 ![Diagram](C:\Users\USER\Github\Attendance-system-using-face-recognition-and-identification\Image\window1.PNG)
