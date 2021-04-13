@@ -7,7 +7,7 @@
 ![Welcome Window](Image/window1.PNG)
 
 # Detection Student
-![Face Recognition](Image/Face Recognition.PNG)
+![Face Recognition](Image/Face_Recognition.PNG)
 
 # Student information
-![Student Information](Image/Student Information.PNG)
+![Student Information](Image/Student_Information.PNG)
