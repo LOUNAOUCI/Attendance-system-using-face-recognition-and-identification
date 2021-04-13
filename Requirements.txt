@@ -1,0 +1,4 @@
+Python 3.7 or Later
+openCv
+face_recognition
+numpy
