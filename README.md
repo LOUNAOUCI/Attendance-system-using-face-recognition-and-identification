@@ -4,10 +4,10 @@
 ![Diagram](Image/Diagram.PNG)
 
 # Welcome Window
-![Diagram](C:\Users\USER\Github\Attendance-system-using-face-recognition-and-identification\Image\window1.PNG)
+![Welcome Window](Image/window1.PNG)
 
 # Detection Student
-![Diagram](C:\Users\USER\Github\Attendance-system-using-face-recognition-and-identification\Image\Face Recognition.PNG)
+![Face Recognition](Image/Face Recognition.PNG)
 
 # Student information
-![Diagram](C:\Users\USER\Github\Attendance-system-using-face-recognition-and-identification\Image\Student Information.PNG)
+![Student Information](Image/Student Information.PNG)
